@@ -1,4 +1,4 @@
-- 👋 Columbia 26' CS
+- 👋 Columbia 26' CS & Linguistics
 - 👀 I’m interested in Machine Learning and NLP
 - 🌱 I’m currently learning PyTorch, Hugging Face, Langchain and more
 
