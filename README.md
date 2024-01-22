@@ -1,4 +1,4 @@
-- 👋 Columbia 26' CS & Entrepreneurship
+- 👋 Columbia 26' CS & Operations Research
 
 <!---
 taimurshaikh/taimurshaikh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
