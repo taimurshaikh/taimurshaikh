@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Taimur</h1>
 
-- 🔭 I’m currently working on **a smarter way to organize browser tabs.**
+- 🔭 I’m currently a sophomore at Columbia studying **CS & Operations Research.**
 
 - 🌱 I’m currently learning **full-stack development.**
 
