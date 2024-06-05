@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Taimur</h1>
 
-- 🔭 I’m currently a sophomore at Columbia studying **CS & Operations Research.**
+- 🔭 I’m currently a junior at Columbia studying **CS & Operations Research.**
 
 - 🌱 I’m currently learning **full-stack development.**
 
